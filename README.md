@@ -18,7 +18,14 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+a=input()
+celcius=float(a)
+fahrenheit=((celcius)*1.8)+32
+print("Celsius = {:.2f}".format(celcius))
+print("Fahrenheit = {:.2f}".format(fahrenheit))
 
+### OUTPUT:
+![Screenshot 2024-03-12 195818](https://github.com/ArchanaSharikalHarinarayanan/Swapping-two-values/assets/150009432/372cb1a6-06da-4401-9d36-d3f84ff5a630)
 
 
 ## RESULT:
