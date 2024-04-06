@@ -27,7 +27,9 @@ y = temp
 
 print('Swapped values are:',x,y)
 ```
+## OUTPUT:
 
+![alt text](<Screenshot 2024-04-06 093759.png>)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
